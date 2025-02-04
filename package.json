@@ -8,12 +8,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plus3it/cfn-update-scheduler.git"
+    "url": "git+https://github.com/MetroStar/cfn-update-scheduler.git"
   },
   "author": "Plus3 IT Systems",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/plus3it/cfn-update-scheduler/issues"
+    "url": "https://github.com/MetroStar/cfn-update-scheduler/issues"
   },
-  "homepage": "https://github.com/plus3it/cfn-update-scheduler#readme"
+  "homepage": "https://github.com/MetroStar/cfn-update-scheduler#readme"
 }
